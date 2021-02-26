@@ -1,0 +1,13 @@
+Metadata-Version: 1.2
+Name: pipelines
+Version: 0.1.0
+Summary: Data engineering pipelines for the Moovio Plus Product.
+Moovio is a fictional product created by the Databricks Curriculum Team to
+support teaching data engineering.
+
+Home-page: https://github.com/databricks-academy/databricks-project/tree/published/example/databricks_job_with_wheel/src/pipelines
+Author: @joshuacook
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6.0

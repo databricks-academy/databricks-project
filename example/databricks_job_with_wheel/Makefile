@@ -17,7 +17,7 @@ run-tests: launch-test-server clean-pyc
 		docker-compose exec spark_testing pytest -s
 
 wheel:
-		python src/setup.py bdist_wheel
+		python pipelines/setup.py bdist_wheel
 
 wheel-install: wheel
 	  databricks libraries install --cluster-id $(cluster_id) --whl file:$(bdist_wheel)

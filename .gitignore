@@ -1,14 +1,6 @@
 **/.DS_Store
 **/.cache
-**/.ipython
-**/.ivy2
+**/.ivy*
+**/.ipy*
 **/.jupyter
 **/.local
-**/.pytest_cache
-**/__pycache__
-**/build
-**/dist
-**/pipelines.egg-info
-**/tests/data/bronze
-**/tests/data/silver
-**/tests/data/checkpoints
